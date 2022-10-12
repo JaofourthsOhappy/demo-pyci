@@ -1,4 +1,4 @@
-Continuous Integration Demo [![Build Status]
+Continuous Integration Demo 
 ============================
 
 This project demonstrates use of Travis CI to build and test a Python project.  
