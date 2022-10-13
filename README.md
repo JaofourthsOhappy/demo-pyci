@@ -1,4 +1,4 @@
-Continuous Integration Demo 
+Continuous Integration Demo [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJaofourthsOhappy%2Fdemo-pyci.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJaofourthsOhappy%2Fdemo-pyci?ref=badge_shield)
 ============================
 
 This project demonstrates use of Travis CI to build and test a Python project.  
